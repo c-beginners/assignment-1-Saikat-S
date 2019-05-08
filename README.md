@@ -1,3 +1,6 @@
+# assignment-1-Saikat-S
+assignment-1-Saikat-S created by GitHub Classroom
+
 Assignment #1 by @baileyn 
 I'd like to suggest a task. Create a function that can be used to determine 
 if a word/phrase is a palindrome or not (spelled the same forward and backwords). 
